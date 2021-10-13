@@ -1,0 +1,39 @@
+.row
+{
+    height: 400px;   
+}
+body{
+    background-image: url(Images/pink\ mix.jpg);  
+    margin:20px;  
+}
+
+.head_section img{
+    height: 250px;
+    border: 5px solid red;
+    margin: 20px;
+}
+.head_section h1{
+    font-style: bold;
+    font-family: Jokerman;
+    /* text-align: center; */
+}
+
+.image_section
+{
+    margin: 20px;
+    /* border: 2px solid red; */
+    float: left;
+    width: auto;
+    height: 300px;
+}
+.image_section img{
+    height: 300px;
+    border:5px solid orange;
+    border-radius: 10%;
+    float: left;
+}
+
+.con p{
+    font-family: jokerman;
+    text-align: center;
+}
